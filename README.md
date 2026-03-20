@@ -10,4 +10,4 @@ Multiphase CFD simulation of hydrogen degassing in a steelmaking Vacuum Arc Dega
 - Standard k-ε turbulence model
 
 ## UDFs
-UDFs written in C: hydrogen_transport (Sieverts law mass transfer) and argon_phase_density (hydrostatic density), combined in one file
+UDFs written in C: hydrogen_transport (Sieverts law mass transfer) and argon_phase_density (hydrostatic density), combined in one file, VAD_UDF_v2.c .
